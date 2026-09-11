@@ -4,9 +4,9 @@ Sistema desenvolvido em Python para importação, tratamento e análise de dados
 
 ## Dashboard online
 
-Acesse o projeto:
+Acesse o projeto e teste o dashboard diretamente no navegador:
 
-https://automacao-relatorios.streamlit.app/
+[**Abrir Dashboard de Vendas**](https://automacao-relatorios.streamlit.app/)
 
 ## Funcionalidades
 
