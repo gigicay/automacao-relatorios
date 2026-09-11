@@ -1,0 +1,13 @@
+data,nome_cliente,produto_vendido,categoria,qtd,preco
+05/01/2026,Cliente 001,Consignado,Crédito,2,1200
+12/01/2026,Cliente 002,Consórcio,Investimentos,1,2500
+03/02/2026,Cliente 003,Consignado,Crédito,3,1100
+18/02/2026,Cliente 004,Seguro,Seguros,2,800
+02/03/2026,Cliente 005,Consórcio,Investimentos,2,2700
+15/03/2026,Cliente 006,Consignado,Crédito,1,1300
+08/04/2026,Cliente 007,Seguro,Seguros,4,750
+21/04/2026,Cliente 008,Consórcio,Investimentos,1,3000
+10/05/2026,Cliente 009,Consignado,Crédito,2,1250
+27/05/2026,Cliente 010,Seguro,Seguros,3,900
+06/06/2026,Cliente 011,Consórcio,Investimentos,2,2800
+19/06/2026,Cliente 012,Consignado,Crédito,4,1150
